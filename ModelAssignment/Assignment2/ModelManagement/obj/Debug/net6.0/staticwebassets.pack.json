@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\oholl\\OneDrive\\UNI\\4.Semester\\BED\\Assignment2\\ModelManagement\\wwwroot\\Index.html",
+      "PackagePath": "staticwebassets\\Index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ModelManagement.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ModelManagement.props",
+      "PackagePath": "build\\ModelManagement.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ModelManagement.props",
+      "PackagePath": "buildMultiTargeting\\ModelManagement.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ModelManagement.props",
+      "PackagePath": "buildTransitive\\ModelManagement.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

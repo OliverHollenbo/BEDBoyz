@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "gqlj9gmHyjoG32KxLeWUTyIO36VDQre51XdW9WlC7z0=",
+  "Source": "ModelManagement",
+  "BasePath": "_content/ModelManagement",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ModelManagement\\wwwroot",
+      "Source": "ModelManagement",
+      "ContentRoot": "C:\\Users\\oholl\\OneDrive\\UNI\\4.Semester\\BED\\Assignment2\\ModelManagement\\wwwroot\\",
+      "BasePath": "_content/ModelManagement",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\oholl\\OneDrive\\UNI\\4.Semester\\BED\\Assignment2\\ModelManagement\\wwwroot\\Index.html",
+      "SourceId": "ModelManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oholl\\OneDrive\\UNI\\4.Semester\\BED\\Assignment2\\ModelManagement\\wwwroot\\",
+      "BasePath": "_content/ModelManagement",
+      "RelativePath": "Index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Index.html"
+    }
+  ]
+}
